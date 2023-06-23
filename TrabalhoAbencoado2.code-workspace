@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "TrabalhoAbencoado2",
+			"path": "."
+		},
+		{
+			"name": "node_modules",
+			"path": "../modelo_bd1-main/node_modules"
+		}
+	],
+	"settings": {}
+}
